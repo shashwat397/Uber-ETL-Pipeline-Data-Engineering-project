@@ -27,7 +27,9 @@ Here is the dataset used in the video - https://github.com/darshilparmar/uber-et
 More info about dataset can be found here:
 
 Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
 Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+
 Data Model
 
 <img width="1760" height="1206" alt="image" src="https://github.com/user-attachments/assets/e6b1627e-c147-48cd-b474-2a6d5a9b0ed0" />
